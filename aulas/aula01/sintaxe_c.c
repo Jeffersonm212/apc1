@@ -18,7 +18,7 @@ int main() { // funcao principal
   // char, int, float
   // variaveis
   // leitura
-int  primeiro_numero;
+int  num1, num2, soma;
 int segundo_numero;
 primeiro_numero = 5;
 segundo_numero = 6;
