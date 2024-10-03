@@ -20,11 +20,12 @@ int main() { // funcao principal
   // leitura
 int  num1, num2, soma;
 int segundo_numero;
+
 primeiro_numero = 5;
 segundo_numero = 6;
   // 2. processamento
   // calculo soma, subtracao, multiplicacao, divisao
-int  soma = primeiro_numero + segundo_numero;
+int soma = primeiro_numero + segundo_numero;
 
   // 3. saida
   // escrita
